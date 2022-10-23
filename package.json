@@ -1,0 +1,12 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "simple API hosted on glitch",
+  "main": "index.js",
+  "author": "Marian Zburlea",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
