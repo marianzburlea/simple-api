@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "json-server --watch ./data-base.json"
+  },
   "name": "simple-api",
   "version": "1.0.0",
   "description": "simple API hosted on glitch",
